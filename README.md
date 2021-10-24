@@ -1,6 +1,6 @@
 ### olá eu sou a Byanca Mari
 
-- 🌱 Estudo python
+- 🌱 Estudante de DS
 - 😄 ela/dela
 
 <div align="center">
