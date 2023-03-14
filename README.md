@@ -1,4 +1,4 @@
-### olá eu sou a Byanca Mari
+
 
 - 🌱 Estudante de DS
 - 😄 ela/dela
